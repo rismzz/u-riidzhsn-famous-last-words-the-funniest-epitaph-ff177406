@@ -22,7 +22,7 @@ Ide: kata perpisahan di batu nisan — akhirnya kabur dari grup chat, membawa pa
 ## Repo & commit
 
 - Repo: https://github.com/rismzz/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406
-- Commit final ter-push: `e025a332a5ef6c7c19785c6319de5110f2ec9298` (branch main, terverifikasi via `git ls-remote` HEAD sama)
+- Commit kode entri: `7a6fdddf9cad8aa1d67ad4e0cb48ff7898305f59` (main.py, README, LICENSE, owner.json). Commit HEAD saat STATUS ini ditulis: `2b2a89d0d81097330f1139abc9ab8b0d0a2a8f45` (hanya penambahan STATUS.md + snapshot requirements; kode entri tidak berubah). Agen utama memakai HEAD terbaru saat submit — terverifikasi via `git ls-remote`.
 - `.makefun/owner.json` committed: {"wallet":"GpjYmQrta6MUx3Xbg3WiBRnXzfUpcPWJV4SnXWGQuzux"}
 - README mengikuti template resmi (3 badge live make.fun + footer referral `?ref=aa4mcy45`); LICENSE MIT dengan baris SPDX.
 - About repo terverifikasi: description + homepage https://make.fun/bounty/u-riidzhsn-famous-last-words-the-funniest-epitaph-ff177406 + topik makefun, ai-agents, bounties, growth.
